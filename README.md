@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently learning how to develop web apps by using Python Django & Django REST framework & Vue.js
-⚡  I’m currently working on both frontend & backend of web app for accounting. Also me and my colleagues fixing web apps for different customers.
-You can easily contact me: 
-📫 devsboom@gmail.com
-💬 telegram: [d0f0b](https://t.me/d0f0b)
+- 🔭 I’m currently learning how to develop web apps by using Python Django & Django REST framework & Vue.js
+- ⚡  I’m currently working on both frontend & backend of web app for accounting. Also me and my colleagues fixing web apps for different customers.
+
+You can easily contact me:
+- 📫 devsboom@gmail.com
+- 💬 telegram: [d0f0b](https://t.me/d0f0b)
 
 ✨ Thanks for visiting! ✨
 
