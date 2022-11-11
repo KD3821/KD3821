@@ -1,13 +1,14 @@
-### Hi! My name is Denis! 👋
+### Hi! I am Denis! 👋
 
 - 🚀 I’m currently learning how to develop web apps by using Python Django & Django REST framework & Vue.js 🪐
 - 💻 Since recently I'm working on my own web app for accounting 📉                    
-- 👯 Me and my colleagues are willing to fix bugs and add new features for you.  👉 No job is small! 👈
-- Backend 🤔 => Frontend 🤨 => Full-stack 😎
+- 👯 Me and my colleagues do full-stack web development jobs for different customers.👈
 
 Please feel free to contact me via:
 - 📨 devsboom@gmail.com
 - 💬 telegram: [d0f0b](https://t.me/d0f0b)
+
+Backend 🤔 => Frontend 🤨 => Full-stack 😎
 
 ✨ Thanks for visiting! ✨
 
