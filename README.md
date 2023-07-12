@@ -1,7 +1,7 @@
 ### Hi! I am Denis! 👋
 
-- 🚀 I’m currently learning how to develop web apps by using Python Django & Django REST framework & Vue.js 🪐
-- 💻 Since recently I'm working on my own web app for accounting 📉                    
+- 🚀 I’m currently learning how to develop web apps by using Python Django & Django REST framework & FastAPI 🪐
+- 💻 Since recently I'm working on my own web app for tickets service with billing features 📉                    
 - 👯 Me and my colleagues do full-stack web development jobs for different customers 👈
 
 Please feel free to contact me via:
