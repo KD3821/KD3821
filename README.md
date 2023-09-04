@@ -8,7 +8,7 @@ Please feel free to contact me via:
 - 📨 devsboom@gmail.com
 - 💬 telegram: [d0f0b](https://t.me/d0f0b)
 
-Backend 🤔 => Frontend 🤨 => Full-stack 😎
+Backend 🤔 => Frontend 🤨 => Data Science 😎
 
 ✨ Thanks for visiting! ✨
 
