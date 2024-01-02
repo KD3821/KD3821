@@ -14,7 +14,7 @@ Backend 🤔 => Frontend 🤨 => Data Science 😎
 
 
 <!--
-**KD3821/KD3821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KD3821/KD3821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
