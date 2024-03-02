@@ -1,14 +1,13 @@
 ### Hi! I am Denis! 👋
 
-- 🚀 I’m currently learning how to develop web apps by using Python Django & Django REST framework & FastAPI 🪐
-- 💻 Since recently I'm working on my own web app for tickets service with billing features 📉                    
-- 👯 Me and my colleagues do full-stack web development jobs for different customers 👈
+- 🚀 I enjoy developing web apps using Vue.js & Python (Django & FastAPI) 🪐
+- 💻 Since recently I'm working on my own Billing Service with OAuth2 features 📉 
 
 Please feel free to contact me via:
 - 📨 devsboom@gmail.com
 - 💬 telegram: [d0f0b](https://t.me/d0f0b)
 
-Backend 🤔 => Frontend 🤨 => Data Science 😎
+Backend 🤔 => Frontend 🤨 => CV 😎
 
 ✨ Thanks for visiting! ✨
 
