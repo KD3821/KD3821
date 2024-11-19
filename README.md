@@ -1,7 +1,8 @@
 ### Hi! I am Denis! 👋
 
-- 🚀 I enjoy developing web apps using Vue.js & Python (Django & FastAPI) 🪐
-- 💻 Since recently I'm working on my own Billing Service with OAuth2 features 📉 
+- 🚀 I enjoy developing online services using Python web frameworks (Django & FastAPI) 🪐
+- 🤖 Since recently I'm building backends for ML/AI services (mostly AI assistant apps based on RAG) ⚡ 
+- 🌞 At my free time I enjoy visiting offline IT events and networking with new people 👯
 
 Please feel free to contact me via:
 - 📨 devsboom@gmail.com
